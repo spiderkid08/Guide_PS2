@@ -1,0 +1,129 @@
+---
+main:
+  - 
+    title: Hem
+    url: /
+  - 
+    title: Vanliga frågor
+    url: faq
+  - 
+    title: Donationer
+    url: donations
+  - 
+    title: Tack till
+    url: credits
+  - 
+    title: Uppdatera B9S
+    url: updating-b9s
+  - 
+    title: A9LH till B9S
+    url: a9lh-to-b9s
+  - 
+    title: Felsökning
+    url: troubleshooting
+  - 
+    title: Ändra region
+    url: region-changing
+  - 
+    title: Användning av GodMode9
+    url: godmode9-usage
+  - 
+    title: Navigering på webbplatsen
+    url: site-navigation
+  - 
+    title: Avinstallera CFW
+    url: uninstall-cfw
+bottom:
+  - 
+    title: För support på engelska, be om hjälp av <a href="https://discord.gg/MWxPgEp">Nintendo Homebrew på Discord</a>.
+  - 
+    title: If you appreciate this guide, I accept <a href="donations">Donations</a>.
+footer:
+  - 
+    title: Källa
+  - 
+    title: Navigering på webbplatsen
+  - 
+    title: Varför annonser?
+sidebar_title:
+  - 
+    title: Övergripande framsteg
+sidebar_pages:
+  - 
+    title: Hem
+    url: /
+  - 
+    title: Kom Igång
+    url: kom-igång
+  - 
+    title: Kom igång (Nya 3DS)
+    url: kom-igång-(ny-3ds)
+  - 
+    title: Kom igång (Äldre 3DS)
+    url: kom-igång-(äldre-3ds)
+  - 
+    title: Cartridge uppdatering
+    url: cartridge-uppdatering
+  - 
+    title: ntrboot
+    url: ntrboot
+  - 
+    title: Installera boot9strap (DSiWare)
+    url: installera-boot9strap-(dsiware)
+  - 
+    title: Flera Alternativ
+    url: olika-alternativ
+  - 
+    title: Flasha ntrboot (3DS enskilt System)
+    url: flasha-ntrboot-(3ds enskilt System)
+  - 
+    title: Flasha ntrboot (3DS Multi System)
+    url: flasha ntrboot-(3ds-multi-system)
+  - 
+    title: Flasha ntrboot (DSi)
+    url: flasha ntrboot (Dsi)
+  - 
+    title: Flasha ntrboot (NDS)
+    url: flashing-ntrboot-(Nds)
+  - 
+    title: Flasha ntrboot (Powersaves)
+    url: ntr-and-cubic-ninja
+  - 
+    title: Homebrew Launcher (Soundhax)
+    url: homebrew-Launcher-(soundhax)
+  - 
+    title: Homebrew Launcher (Alternativ)
+    url: homebrew Launcher (Alternativ)
+  - 
+    title: NTR och Cubic Ninja
+    url: ntr-och-cubic-ninja
+  - 
+    title: Installera boot9strap (2xrsa)
+    url: installera-boot9strap-(2xrsa)
+  - 
+    title: Installera boot9strap (Webbläsare)
+    url: installera boot9strap (Webbläsare)
+  - 
+    title: Installera boot9strap (DSiWare spel injektion)
+    url: installera boot9strap (DsiWare Spel injektion)
+  - 
+    title: Installera boot9strap (DSiWare Save injektion)
+    url: installing-boot9strap-(homebrew-launcher)
+  - 
+    title: Installera boot9strap (Hårdvarumod)
+    url: installera boot9strap (Hårdvarumod)
+  - 
+    title: Installera boot9strap (Homebrew Launcher)
+    url: installera boot9strap (Homebrew Launcher)
+  - 
+    title: Installera boot9strap (MSET)
+    url: installing-boot9strap-(mset)
+  - 
+    title: Installera boot9strap (ntrboot)
+    url: installera boot9strap (ntrboot)
+  - 
+    title: Installing boot9strap (Soundhax)
+    url: installing-boot9strap-(soundhax)
+  - 
+    title: Slutför installationen
+    url: finalizing-setup

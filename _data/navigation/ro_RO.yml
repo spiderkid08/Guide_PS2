@@ -1,0 +1,129 @@
+---
+main:
+  - 
+    title: Acasă
+    url: /
+  - 
+    title: Intrebări frecvente
+    url: faq
+  - 
+    title: Donații
+    url: donations
+  - 
+    title: Contribuţii
+    url: credits
+  - 
+    title: Actualizând B9S
+    url: updating-b9s
+  - 
+    title: A9LH către B9S
+    url: a9lh-to-b9s
+  - 
+    title: Depanare
+    url: troubleshooting
+  - 
+    title: Schimbând regiunea
+    url: region-changing
+  - 
+    title: Folosind GodMode9
+    url: godmode9-usage
+  - 
+    title: Navigarea pe site
+    url: site-navigation
+  - 
+    title: Dezinstalând CFW
+    url: uninstall-cfw
+bottom:
+  - 
+    title: Pentru suport în engleză, cereți ajutor la <a href="https://discord.gg/MWxPgEp">Nintendo Homebrew pe Discord</a>.
+  - 
+    title: Dacă apreciați acest ghid, accept <a href="donations">Donații</a>.
+footer:
+  - 
+    title: Codul sursă
+  - 
+    title: Navigarea pe site
+  - 
+    title: De ce sunt reclame?
+sidebar_title:
+  - 
+    title: Progres total
+sidebar_pages:
+  - 
+    title: Acasă
+    url: /
+  - 
+    title: Începeți (New 3DS)
+    url: get-started
+  - 
+    title: Începeți (New 3DS)
+    url: get-started-(old-3ds)
+  - 
+    title: Începeți (Old 3DS)
+    url: get-started-(old-3ds)
+  - 
+    title: Actualizare cu card de joc
+    url: cart-update
+  - 
+    title: ntrboot
+    url: ntrboot
+  - 
+    title: Instalând boot9strap (DSiWare)
+    url: installing-boot9strap-(dsiware)
+  - 
+    title: Mai multe opţiuni
+    url: multiple-options
+  - 
+    title: Instalând ntrboot (Un 3DS)
+    url: flashing-ntrboot-(3ds-single-system)
+  - 
+    title: Instalând ntrboot (Două 3DS-uri)
+    url: flashing-ntrboot-(3ds-multi-system)
+  - 
+    title: Instalând ntrboot (DSi)
+    url: flashing-ntrboot-(dsi)
+  - 
+    title: Instalând ntrboot (NDS)
+    url: flashing-ntrboot-(nds)
+  - 
+    title: Instalând ntrboot (Powersaves)
+    url: flashing-ntrboot-(powersaves)
+  - 
+    title: Homebrew Laucher (SoundHax)
+    url: homebrew-launcher-(soundhax)
+  - 
+    title: Homebrew Launcher (Alternative)
+    url: homebrew-launcher-(alternatives)
+  - 
+    title: NTR și Cubic Ninja
+    url: ntr-and-cubic-ninja
+  - 
+    title: Instalând boot9strap (2xrsa)
+    url: installing-boot9strap-(2xrsa)
+  - 
+    title: Instalând boot9strap (Browser)
+    url: installing-boot9strap-(browser)
+  - 
+    title: Instalând boot9strap (Injectare cu joc DSiWare)
+    url: installing-boot9strap-(dsiware-game-injection)
+  - 
+    title: Instalând boot9strap (Injectare cu date de salvare DSiWare)
+    url: installing-boot9strap-(dsiware-save-injection)
+  - 
+    title: Instalând boot9strap (Hardmod)
+    url: installing-boot9strap-(hardmod)
+  - 
+    title: Instalând boot9strap (Homebrew Launcher)
+    url: installing-boot9strap-(homebrew-launcher)
+  - 
+    title: Instalând boot9strap (MSET)
+    url: installing-boot9strap-(mset)
+  - 
+    title: Instalând boot9strap (ntrboot)
+    url: installing-boot9strap-(ntrboot)
+  - 
+    title: Installing boot9strap (Soundhax)
+    url: installing-boot9strap-(soundhax)
+  - 
+    title: Finalizând instalarea
+    url: finalizing-setup

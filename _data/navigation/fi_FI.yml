@@ -1,0 +1,129 @@
+---
+main:
+  - 
+    title: Etusivu
+    url: /
+  - 
+    title: UKK
+    url: faq
+  - 
+    title: Lahjoitukset
+    url: donations
+  - 
+    title: Kiitokset
+    url: credits
+  - 
+    title: B9S:n päivittäminen
+    url: updating-b9s
+  - 
+    title: A9LH → B9S
+    url: a9lh-to-b9s
+  - 
+    title: Vianmääritys
+    url: troubleshooting
+  - 
+    title: Alueen vaihtaminen
+    url: region-changing
+  - 
+    title: GodMode9:n käyttäminen
+    url: godmode9-usage
+  - 
+    title: Sivukartta
+    url: site-navigation
+  - 
+    title: CFW:n poistaminen
+    url: uninstall-cfw
+bottom:
+  - 
+    title: Englanninkielistä tukea saat <a href="https://discord.gg/MWxPgEp">Nintendo Homebrew -palvelimelta Discordissa</a>.
+  - 
+    title: Jos arvostat tätä opasta, otan vastaan <a href="donations">lahjoituksia</a>.
+footer:
+  - 
+    title: Lähdekoodi
+  - 
+    title: Sivukartta
+  - 
+    title: Miksi mainokset?
+sidebar_title:
+  - 
+    title: Edistyminen
+sidebar_pages:
+  - 
+    title: Etusivu
+    url: /
+  - 
+    title: Aloitus
+    url: get-started
+  - 
+    title: Aloitus (New 3DS)
+    url: get-started-(new-3ds)
+  - 
+    title: Aloitus (vanha 3DS)
+    url: get-started-(old-3ds)
+  - 
+    title: Korttipäivitys
+    url: cart-update
+  - 
+    title: Ntrboot
+    url: ntrboot
+  - 
+    title: Boot9strapin asentaminen (DSiWare)
+    url: installing-boot9strap-(dsiware)
+  - 
+    title: Useita vaihtoehtoja
+    url: multiple-options
+  - 
+    title: Ntrbootin asentaminen (yksi 3DS)
+    url: flashing-ntrboot-(3ds-single-system)
+  - 
+    title: Ntrbootin asentaminen (monta 3DS:ää)
+    url: flashing-ntrboot-(3ds-multi-system)
+  - 
+    title: Ntrbootin asentaminen (DSi)
+    url: flashing-ntrboot-(dsi)
+  - 
+    title: Ntrbootin asentaminen (NDS)
+    url: flashing-ntrboot-(nds)
+  - 
+    title: Ntrbootin asentaminen (Powersaves)
+    url: flashing-ntrboot-(powersaves)
+  - 
+    title: Homebrew Launcher (SoundHax)
+    url: homebrew-launcher-(soundhax)
+  - 
+    title: Homebrew Launcher (muut käynnistystavat)
+    url: homebrew-launcher-(alternatives)
+  - 
+    title: NTR ja Cubic Ninja
+    url: ntr-and-cubic-ninja
+  - 
+    title: Boot9strapin asentaminen (2xrsa)
+    url: installing-boot9strap-(2xrsa)
+  - 
+    title: Boot9strapin asentaminen (selain)
+    url: installing-boot9strap-(browser)
+  - 
+    title: Boot9strapin asentaminen (DSiWare-peli-injektio)
+    url: installing-boot9strap-(dsiware-game-injection)
+  - 
+    title: Boot9strapin asentaminen (DSiWare-tallennusinjektio)
+    url: installing-boot9strap-(dsiware-save-injection)
+  - 
+    title: Boot9strapin asentaminen (laitteistomodaus)
+    url: installing-boot9strap-(hardmod)
+  - 
+    title: Boot9strapin asentaminen (Homebrew Launcher)
+    url: installing-boot9strap-(homebrew-launcher)
+  - 
+    title: Boot9strapin asentaminen (MSET)
+    url: installing-boot9strap-(mset)
+  - 
+    title: Boot9strapin asentaminen (ntrboot)
+    url: installing-boot9strap-(ntrboot)
+  - 
+    title: Installing boot9strap (Soundhax)
+    url: installing-boot9strap-(soundhax)
+  - 
+    title: Asennuksen viimeistely
+    url: finalizing-setup

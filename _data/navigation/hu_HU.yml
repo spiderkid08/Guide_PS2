@@ -1,0 +1,129 @@
+---
+main:
+  - 
+    title: Főoldal
+    url: /
+  - 
+    title: GYIK
+    url: faq
+  - 
+    title: Adományok
+    url: donations
+  - 
+    title: Közreműködők
+    url: credits
+  - 
+    title: B9S frissítése
+    url: updating-b9s
+  - 
+    title: A9LH-ről B9S-re
+    url: a9lh-to-b9s
+  - 
+    title: Hibaelhárítás
+    url: troubleshooting
+  - 
+    title: Régióváltás
+    url: region-changing
+  - 
+    title: GodMode9 használata
+    url: godmode9-usage
+  - 
+    title: Oldaltérkép
+    url: site-navigation
+  - 
+    title: CFW eltávolítása
+    url: uninstall-cfw
+bottom:
+  - 
+    title: 'Angol nyelvű segítségnyújtásért keresd fel a következőt: <a href="https://discord.gg/MWxPgEp">Nintendo Homebrew a Discord-on</a>.'
+  - 
+    title: Amennyiben hasznosnak véled ezt az útmutatót, elfogadok <a href="donations">Adományokat</a>.
+footer:
+  - 
+    title: Forráskód
+  - 
+    title: Oldaltérkép
+  - 
+    title: Miért vannak hirdetések?
+sidebar_title:
+  - 
+    title: Előrehaladás
+sidebar_pages:
+  - 
+    title: Főoldal
+    url: /
+  - 
+    title: Kezdeti lépések
+    url: get-started
+  - 
+    title: Kezdeti lépések (New 3DS)
+    url: get-started-(new-3ds)
+  - 
+    title: Kezdeti lépések (Old 3DS)
+    url: get-started-(old-3ds)
+  - 
+    title: Frissítés kártyáról
+    url: cart-update
+  - 
+    title: ntrboot
+    url: ntrboot
+  - 
+    title: boot9strap telepítése (DSiWare)
+    url: installing-boot9strap-(dsiware)
+  - 
+    title: Több lehetőség
+    url: multiple-options
+  - 
+    title: ntrboot flashelése (egy 3DS)
+    url: flashing-ntrboot-(3ds-single-system)
+  - 
+    title: ntrboot flashelése (több 3DS)
+    url: flashing-ntrboot-(3ds-multi-system)
+  - 
+    title: ntrboot flashelése (DSi)
+    url: flashing-ntrboot-(dsi)
+  - 
+    title: ntrboot flashelése (NDS)
+    url: flashing-ntrboot-(nds)
+  - 
+    title: ntrboot flashelése (Powersaves)
+    url: flashing-ntrboot-(powersaves)
+  - 
+    title: Homebrew Launcher (Soundhax)
+    url: homebrew-launcher-(soundhax)
+  - 
+    title: Homebrew Launcher (alternatívák)
+    url: homebrew-launcher-(alternatives)
+  - 
+    title: NTR és Cubic Ninja
+    url: ntr-and-cubic-ninja
+  - 
+    title: boot9strap telepítése (2xrsa)
+    url: installing-boot9strap-(2xrsa)
+  - 
+    title: boot9strap telepítése (böngésző)
+    url: installing-boot9strap-(browser)
+  - 
+    title: boot9strap telepítése (DSiWare játék-injektálás)
+    url: installing-boot9strap-(dsiware-game-injection)
+  - 
+    title: boot9strap telepítése (DSiWare mentés-injektálás)
+    url: installing-boot9strap-(dsiware-save-injection)
+  - 
+    title: boot9strap telepítése (Hardmod)
+    url: installing-boot9strap-(hardmod)
+  - 
+    title: boot9strap telepítése (Homebrew Launcher)
+    url: installing-boot9strap-(homebrew-launcher)
+  - 
+    title: boot9strap telepítése (MSET)
+    url: installing-boot9strap-(mset)
+  - 
+    title: boot9strap telepítése (ntrboot)
+    url: installing-boot9strap-(ntrboot)
+  - 
+    title: Installing boot9strap (Soundhax)
+    url: installing-boot9strap-(soundhax)
+  - 
+    title: Telepítés véglegesítése
+    url: finalizing-setup

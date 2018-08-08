@@ -1,0 +1,129 @@
+---
+main:
+  - 
+    title: Startseite
+    url: /
+  - 
+    title: FAQ
+    url: faq
+  - 
+    title: Spenden
+    url: spenden
+  - 
+    title: Danksagungen
+    url: credits
+  - 
+    title: B9S aktualisieren
+    url: updating-b9s
+  - 
+    title: A9LH zu B9S
+    url: a9lh-to-b9s
+  - 
+    title: Problemlösungen
+    url: troubleshooting
+  - 
+    title: Wechseln der Region
+    url: region-changing
+  - 
+    title: Benutzung von GodMode9
+    url: godmode9-usage
+  - 
+    title: Seitennavigation
+    url: site-navigation
+  - 
+    title: CFW deinstallieren
+    url: uninstall-cfw
+bottom:
+  - 
+    title: Für Support auf Englisch, bitte um Hilfe auf dem <a href="https://discord.gg/MWxPgEp">Nintendo Homebrew Discord</a>.
+  - 
+    title: Wenn du diese Anleitung hilfreich fandest, ich akzeptiere <a href="donations">Spenden</a>.
+footer:
+  - 
+    title: Quellcode
+  - 
+    title: Seitennavigation
+  - 
+    title: Warum Werbung?
+sidebar_title:
+  - 
+    title: Gesamtfortschritt
+sidebar_pages:
+  - 
+    title: Startseite
+    url: /
+  - 
+    title: Erste Schritte
+    url: get-started
+  - 
+    title: Erste Schritte (New 3DS)
+    url: get-started-(new-3ds)
+  - 
+    title: Erste Schritte (Old 3DS)
+    url: get-started-(old-3ds)
+  - 
+    title: Kartenupdate
+    url: cart-update
+  - 
+    title: ntrboot
+    url: ntrboot
+  - 
+    title: boot9strap installieren (DSiWare)
+    url: installing-boot9strap-(dsiware)
+  - 
+    title: Mehrere Optionen
+    url: multiple-options
+  - 
+    title: ntrboot flashen (Einzelnes 3DS-System)
+    url: flashing-ntrboot-(3ds-single-system)
+  - 
+    title: ntrboot flashen (Mehrere 3DS-Systeme)
+    url: flashing-ntrboot-(3ds-multi-system)
+  - 
+    title: ntrboot flashen (DSi)
+    url: flashing-ntrboot-(dsi)
+  - 
+    title: ntrboot flashen (NDS)
+    url: flashing-ntrboot-(nds)
+  - 
+    title: ntrboot flashen (Powersaves)
+    url: flashing-ntrboot-(powersaves)
+  - 
+    title: Homebrew Launcher (Soundhax)
+    url: homebrew-launcher-(soundhax)
+  - 
+    title: Homebrew Launcher (Alternativen)
+    url: homebrew-launcher-(alternatives)
+  - 
+    title: NTR und Cubic Ninja
+    url: ntr-and-cubic-ninja
+  - 
+    title: boot9strap installieren (2xrsa)
+    url: installing-boot9strap-(2xrsa)
+  - 
+    title: boot9strap installieren (Browser)
+    url: installing-boot9strap-(browser)
+  - 
+    title: Boot9strap installieren (DSiWare Game Injection)
+    url: installing-boot9strap-(dsiware-game-injection)
+  - 
+    title: boot9strap installieren (DSiWare Save Injection)
+    url: installing-boot9strap-(dsiware-save-injection)
+  - 
+    title: boot9strap installieren (Hardmod)
+    url: installing-boot9strap-(hardmod)
+  - 
+    title: boot9strap installieren (Homebrew Launcher)
+    url: installing-boot9strap-(homebrew-launcher)
+  - 
+    title: boot9strap installieren (MSET)
+    url: installing-boot9strap-(mset)
+  - 
+    title: Boot9strap installieren (ntrboot)
+    url: installing-boot9strap-(ntrboot)
+  - 
+    title: Installing boot9strap (Soundhax)
+    url: installing-boot9strap-(soundhax)
+  - 
+    title: Setup abschließen
+    url: finalizing-setup
